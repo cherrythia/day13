@@ -119,5 +119,3 @@ git tag --list
 git push --tags
 
 git ls-remote --tags
-
-EPAT Aug19
